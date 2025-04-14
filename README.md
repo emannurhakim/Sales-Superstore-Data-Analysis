@@ -64,7 +64,7 @@ In today’s competitive retail environment, understanding customer behavior, op
 ## Author
 
 **Sulaeman Nurhakim**  
-🎓 Data Enthusiast | Purwadhika Job Connector Cohort 2804-001  
+🎓 Data Enthusiast | Purwadhika Job Connect Data Science and Machine Learning 2804-001  
 📫 [LinkedIn](https://www.linkedin.com/in/sulaemann/)  
 
 ---
