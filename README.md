@@ -72,4 +72,4 @@ In today’s competitive retail environment, understanding customer behavior, op
 
 > - [Dashboard Looker Studio](https://lookerstudio.google.com/reporting/b88d76fd-358a-44ab-87b7-37734ddc209d)
 > - [ETL BigQuery](https://console.cloud.google.com/bigquery?invt=Abuvuw&project=sales-superstore-analysis&ws=!1m5!1m4!4m3!1ssales-superstore-analysis!2ssuperstore!3ssales_superstore_analysis_cleaned)
-> - [Linkedin Post]
+> - [Linkedin Post](https://www.linkedin.com/posts/sulaemann_after-countless-iterations-and-refinements-activity-7317582392972517379-8gBa?utm_source=share&utm_medium=member_desktop&rcm=ACoAADf3ehkB5YP57304KhLc5eaLpTor6jESOn0)
